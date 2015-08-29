@@ -1,0 +1,11 @@
+.jumbotron{
+  background-image: url('/assets/bg.jpg') !important;
+  background-size: cover;
+}
+.navbar.navbar-inverse.navbar-fixed-top{
+  background-color:#FFDBC9;
+}
+a.navbar-brand{
+  margin:0px;
+  padding:0px;
+}

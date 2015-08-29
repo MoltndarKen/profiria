@@ -3,5 +3,5 @@
  *= require_self
  *= require superhero/loader
  *= require superhero/bootswatch
- *= require custom/main.less
+ *= require custom/main.css
 */
